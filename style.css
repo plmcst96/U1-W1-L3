@@ -24,6 +24,11 @@
     border-top: solid 0.2em rgb(250, 193, 86);
 }
 
+.paragraph p {
+  color: rgb(50, 110, 115);
+
+}
+
 h1 {
     text-align: center;
     margin-top: 1.2em;
