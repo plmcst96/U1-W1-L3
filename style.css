@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.top-bar {
+    text-align: center;
+}
+
+.top-bar > p {
+    font-size: 13px;
+}
+
+.paragraph {
+    background-color: rgb(251, 232, 179);
+    padding: 1em;
+    border-top: solid 0.2em rgb(250, 193, 86);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 1.2em;
+}
+
+#first-text p {
+    margin-top: 1.3em;
+}
+  .content-image p {
+    text-align: center;
+    color: rgb(189, 186, 186);
+    font-size: 13px;
+    margin-top: 1em;
+  }
+
+  .content-image {
+    margin-top: 1.5em;
+  }
+
+  .content-image img {
+    border-radius: 10px;
+  }
+
+  .featured p {
+    color: red;
+    text-align: left;
+    border-left: solid 0.1em orange;
+    padding: 1em;   
+  }
+
+  hr {
+    margin-top: 1.3em;
+    border: 0;
+    border-top: solid 1px lightskyblue;
+  }
+  #Ingredients {
+    margin-top: 3em;
+  }
+
+  h3, ul, li{
+    margin-top: 1.3em;
+  }
+  #method {
+    margin-top: 3em;
+  }
+
+  #method p {
+    margin-top: 1.5em;
+  }
+ 
+  #footer {
+    border-top: solid 1px lightskyblue;
+    margin-top: 4em;
+  }
+
+  #footer p {
+    text-align: center;
+    margin: 2em;
+  }
